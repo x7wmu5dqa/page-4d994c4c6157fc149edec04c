@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-382dd0d868.kksbaoo.cn/sitemap.xml
